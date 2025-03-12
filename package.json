@@ -2,16 +2,16 @@
   "name": "claudi",
   "type": "module",
   "version": "0.0.1",
+  "author": {
+    "name": "Éric NICOLAS",
+    "handle": "ccjmne",
+    "email": "ccjmne@gmail.com"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
-  },
-  "author": {
-    "name": "Éric NICOLAS",
-    "handle": "ccjmne",
-    "email": "ccjmne@gmail.com"
   },
   "dependencies": {
     "astro": "^5.4.3"
