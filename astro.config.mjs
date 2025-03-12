@@ -5,5 +5,5 @@ import pkg from './package.json'
 // https://astro.build/config
 export default defineConfig({
   site: `https://${pkg.author.handle}.github.io`,
-  base: import.meta.env.PROD ? `/${pkg.name}` : '/',
+  base: import.meta.env.PROD ? `/${pkg.name}/` : '/',
 })
