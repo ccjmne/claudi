@@ -2,6 +2,7 @@
   "name": "claudi2",
   "type": "module",
   "version": "0.0.1",
+  "homepage": "https://ccjmne.github.io/claudi/",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
